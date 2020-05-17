@@ -1,0 +1,40 @@
+﻿  kcftracker.cpp
+d:\kcf\kcf+dsst单目标跟踪\kcfdemo\kcfdemo\recttools.hpp(135): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\kcf\kcf+dsst单目标跟踪\kcfdemo\kcfdemo\recttools.hpp(154): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\kcf\kcf+dsst单目标跟踪\kcfdemo\kcfdemo\labdata.hpp(17): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\kcf\kcf+dsst单目标跟踪\kcfdemo\kcfdemo\labdata.hpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(98): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(105): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(106): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(114): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(115): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(117): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(128): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(129): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(144): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(147): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(150): warning C4305: “=”: 从“double”到“float”截断
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(188): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(189): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(201): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(202): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(216): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(217): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(350): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(371): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(372): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(380): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(381): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(411): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(412): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(415): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(416): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(476): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(510): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(512): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(540): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(573): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(575): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(639): error C2131: 表达式的计算结果不是常数
+  ..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(639): note: 非常量参数或对非常量符号的引用导致了故障
+  ..\..\..\kcf\KCF+DSST单目标跟踪\KCFdemo\KCFdemo\kcftracker.cpp(639): note: 请参见“this”的用法
